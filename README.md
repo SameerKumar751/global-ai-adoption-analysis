@@ -149,56 +149,11 @@ global-ai-adoption-analysis/
 
 ---
 
-# 🚀 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/SameerKumar751/global-ai-adoption-analysis.git
-```
-
-Go inside the project
-
-```bash
-cd global-ai-adoption-analysis
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python app.py
-```
-
-Open your browser
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 
 
 # 📚 Project Report
 
 The complete project report is available in this repository.
-
----
-
-# 🔮 Future Improvements
-
-- Real-time educational datasets
-- Cloud deployment
-- Predictive AI adoption analysis
-- Machine Learning integration
-- API-based live dashboards
-- Advanced business analytics
 
 ---
 
